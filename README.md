@@ -42,7 +42,7 @@ npm run build
 ```
 ### go TO dist folder and create an archive (zip) file from the contents -> archive these files
 
-PICTURE
+![Archive the contents of the dist folder](https://user-images.githubusercontent.com/1533929/65367876-4e5d9a00-dbed-11e9-99bf-33d80c2053b8.png)
 
 
 ### Go to salesforce, setup, type "static resources " in quick find
