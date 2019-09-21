@@ -25,5 +25,27 @@ npm run test
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Deployment for Salesforce
+
+
+### create vue.config.js file as specified -> add the section below with publicPath: '/'
+
+```
+module.exports = {
+  publicPath: './'
+};
+```
+
+### Build the project 
+```
+npm run build
+```
+### go TO dist folder and create an archive (zip) file from the contents -> archive these files
+
+PICTURE
+
+
+### Go to salesforce, setup, type "static resources " in quick find
+
+###
+
